@@ -10,7 +10,7 @@ c = a
 a = b
 b = c
 print(a,b)
-# awaping without 3rd variable
+# sawaping without 3rd variable
 print("NUMBERS AFTER SWAPING WITHOUT 3RD VARIABLE")
 a,b=b,a
 print(a,b)
